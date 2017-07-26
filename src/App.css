@@ -1,0 +1,31 @@
+.btn-margin {
+  margin: 7px 3px;
+}
+.no-border {
+  border-radius: 0px;
+}
+
+.profile-area img {
+  max-width: 150px;
+  margin-bottom: 20px;
+}
+
+.panel-body h3 {
+  margin-top: 0;
+}
+
+.chat-container {
+    margin-top: 50px;
+}
+.chatmessage-container {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin: 20px auto;
+    width: 700px;
+    display: table;
+}
+.message-box {
+    background-color: #eee;
+    padding: 20px;
+    border-bottom: 1px solid #cccccc;
+}
